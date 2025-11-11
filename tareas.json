@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estudiar HTML y CSS",
+    "descripcion": "Repasar HTML y CSS",
+    "completada": true
+  },
+  {
+    "id": 2,
+    "titulo": "Estudiar Node.js",
+    "descripcion": "Repasar Express y rutas",
+    "completada": true
+  },
+  {
+    "id": 3,
+    "titulo": "Hacer ejercicio",
+    "descripcion": "Correr 30 minutos",
+    "completada": true
+  }
+]
