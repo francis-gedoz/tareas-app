@@ -16,5 +16,11 @@
     "titulo": "Hacer ejercicio",
     "descripcion": "Correr 30 minutos",
     "completada": true
+  },
+  {
+    "id": 4,
+    "titulo": "Hacer cardio",
+    "descripcion": "trotar 30 minutos",
+    "completada": true
   }
 ]
